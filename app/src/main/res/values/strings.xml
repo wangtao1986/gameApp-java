@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">风月幻想</string>
+    <!--- 审核服 -->
+    <string name="web_url">http://lexue24.yunxiao.com</string>
+    <!--- 汪涛本地 -->
+    <!-- <string name="web_url">http://192.168.0.210:5973/index.html</string> -->
+</resources>
